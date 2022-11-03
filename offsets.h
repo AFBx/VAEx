@@ -43,7 +43,7 @@ namespace offsets
   
 	constexpr uint64_t bone_array = 0x558;
   
-	constexpr uint64_t bone_count = 0x560; // MAY BE OUTDATED
+	constexpr uint64_t bone_count = 0x560;
   
 	constexpr uint64_t component_to_world = 0x250;
   
